@@ -60,7 +60,7 @@ skillsHeader.forEach((el) => {
     });
 
 const typed = new Typed(".auto-input", {
-  strings: ["An AntiNuke", "An AntiRaid", "A Fun", "A Giveaway", "A Moderation", "A Music", "A Utility"],
+  strings: ["A gaming",],
   typeSpeed: 100,
   backSpeed: 100,
   loop: true
