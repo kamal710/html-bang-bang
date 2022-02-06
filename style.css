@@ -301,6 +301,8 @@ img {
   border-radius: .5rem;
   font-weight: var(--font-medium);
   transition: color 0.3s ease;
+  align-items: center;
+  text-align: center;
 }
 
 
